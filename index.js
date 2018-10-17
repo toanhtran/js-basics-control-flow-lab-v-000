@@ -9,27 +9,3 @@ function scuberGreetingForFeet (feet) {
     return "No can do.";
   }
 }
-
-let isCity = 'NYC';
-
-function ternaryCheckCity() {
-  const isCity === 'NYC' ? 'Ok, sounds good.' : 'No go.';
-
-}
-
-const tip ='other'
-let response;
-
-function switchOnCharmFromTip() {
-  switch (tip) {
-    case generous:
-      response = 'Thank you so much.';
-    case notgenerous:
-      response = 'Thank you.';
-      break;
-    default:
-      response = 'Bye.';
-    break;
-  }
-
-}
