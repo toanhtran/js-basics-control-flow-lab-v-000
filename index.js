@@ -1,5 +1,4 @@
 // Write your code in this file!
-let numOfFeet;
 
 function scuberGreetingForFeet(numOfFeet) {
 
