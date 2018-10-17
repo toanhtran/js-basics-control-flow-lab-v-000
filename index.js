@@ -17,5 +17,17 @@ function ternaryCheckCity() {
 }
 
 function switchOnCharmFromTip() {
+  switch () {
+    case value1:
+    //something
+    case value2:
+    //something
+    case value3:
+    //somtheing
+      break;
+    default:
+    //something
+    break;
+  }
 
 }
