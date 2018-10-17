@@ -16,17 +16,18 @@ function ternaryCheckCity() {
 
 }
 
-
+const tip ='other'
 let response;
+
 function switchOnCharmFromTip() {
   switch (tip) {
     case generous:
-      console.log('Thank you so much.');
+      response = 'Thank you so much.';
     case notgenerous:
-      console.log('Thank you');
+      response = 'Thank you';
       break;
     default:
-      console.log('Bye.');
+      response = 'Bye.';
     break;
   }
 
